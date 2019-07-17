@@ -1,0 +1,2 @@
+size,new PVector,println,pushStyle,popStyle,pushMatrix,popMatrix,contains
+createCanvas,createVector,print,push,pop,push,pop,includes
